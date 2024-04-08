@@ -50,11 +50,7 @@ The project includes several queries for extracting specific information:
 2. **Run Noted FUnction**: In queries_execution.py unnote the create_full_cycle_database() which will download the dataset from kaggle API, will create the DB, fill it and run the queries.
 
 
-## License
-
-This project is open-sourced under the [MIT License](LICENSE.md).
-
 ## Acknowledgments
 
 - Data provided by the [Movies Dataset on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
-- Special thanks to [any contributors, mentors, or entities].
+
